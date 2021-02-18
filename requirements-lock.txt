@@ -1,0 +1,7 @@
+numpy==1.19.5
+pathlib==1.0.1
+PyVISA==1.11.3
+rohdeschwarz==1.7.1.dev1
+ruamel.yaml==0.16.12
+ruamel.yaml.clib==0.2.2
+typing-extensions==3.7.4.3
